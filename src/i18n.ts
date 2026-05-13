@@ -1,0 +1,57 @@
+
+export const translations = {
+  PL: {
+    heroSub: "Zen w Ruchu / Gastro-Odyseja",
+    precisionTitle: "Sztuka Precyzji",
+    precisionFlow: "Sztuka\nIdealnego Flow",
+    precisionDesc: "Gdzie tempo współczesnego życia spotyka się z chirurgiczną precyzją rzemieślniczego sushi. Codziennie ręcznie kręcone w sercu Olsztyna.",
+    precisionQuote: "\"Nie tylko kręcimy sushi; aranżujemy sensoryczne przejście z chaosu galerii do sanktuarium smaku.\"",
+    density: "80% Gęstość",
+    void: "20% Próżnia",
+    craft: "100% Rzemiosło",
+    momentumHealthy: "ZDROWO. POŻYWNIE. SZYBKO.",
+    pokeTitle: "Wysokooktanowe Odżywianie",
+    pokeDesc: "Nasze Poke Bowl są zaprojektowane dla tych, którzy poruszają się z prędkością światła. Świeże, szybkie i bezkompromisowo pyszne.",
+    verdict: "Werdykt",
+    sanctuary: "Sanktuarium",
+    sanctuaryDesc: "Galeria Warmińska, Poziom 0. Enklawa ciszy w pulsie miasta.",
+    directions: "Dojazd",
+    reserve: "Rezerwuj",
+    workerPortal: "Portal Pracownika",
+    workerDesc: "Ekskluzywne korzyści sensoryczne dla pracowników galerii i partnerów.",
+    ready: "Gotowy na podróż?",
+    visitUs: "Odwiedź nas",
+    feedback: "SKANOWANIE_Z_GOOGLE_MAPS // WERYFIKACJA_SATYSFAKCJI",
+    membershipTitle: "PRZYWILEJ PRACOWNIKA",
+    membershipSubtitle: "Ekskluzywne Zniżki: Galeria Warmińska",
+    locationDetail: "Poziom 0, Lokal 42 / Olsztyn"
+  },
+  EN: {
+    heroSub: "Zen in Motion / Gastro-Odyssey",
+    precisionTitle: "Precision Philosophy",
+    precisionFlow: "Art of the\nPerfect Flow",
+    precisionDesc: "Where the speed of modern life meets the surgical precision of artisanal sushi. Hand-crafted daily in the heart of Olsztyn.",
+    precisionQuote: "\"We don't just roll sushi; we orchestrate a sensory transition from the chaos of the mall to a sanctuary of taste.\"",
+    density: "80% Density",
+    void: "20% Void",
+    craft: "100% Craft",
+    momentumHealthy: "HEALTHY. NUTRICIOUS. FAST.",
+    pokeTitle: "High-Octane Nutrition",
+    pokeDesc: "Our Poke Bowls are engineered for those who move at the speed of light. Fast, fresh, and uncompromisingly delicious.",
+    verdict: "The Verdict",
+    sanctuary: "The Sanctuary",
+    sanctuaryDesc: "Galeria Warmińska, Floor 0. A pocket of silence in the city's pulse.",
+    directions: "Directions",
+    reserve: "Reserve",
+    workerPortal: "Worker's Portal",
+    workerDesc: "Exclusive sensory benefits for mall employees and partners. Precise catering for precise work.",
+    ready: "Ready for the journey?",
+    visitUs: "Visit Us",
+    feedback: "SCANNED_FROM_GOOGLE_MAPS_API // VERIFIED_SATISFACTION",
+    membershipTitle: "WORKER PRIVILEGE",
+    membershipSubtitle: "Exclusive Discounts: Galeria Warmińska",
+    locationDetail: "Level 0, Unit 42 / Olsztyn"
+  }
+};
+
+export type Language = 'PL' | 'EN';

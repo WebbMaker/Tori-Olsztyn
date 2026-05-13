@@ -1,0 +1,8 @@
+{
+  "name": "Tori Olsztyn: Zen in Motion",
+  "description": "A cinematic gastronomic odyssey transforming sushi into a high-octane 3D sensory experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
